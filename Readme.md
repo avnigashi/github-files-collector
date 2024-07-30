@@ -3,7 +3,7 @@
 ## Overview
 The GitHub Repository Downloader is a web application that allows users to download the contents of a public GitHub repository, view the JSON result, and export selected files as a JSON file. This tool is particularly useful for developers who need to retrieve repository data for analysis or backup purposes.
 
-[Screen](https://github.com/avnigashi/github-files-collector/blob/main/screen.png?raw=true)
+![Screen](https://github.com/avnigashi/github-files-collector/blob/main/screen.png?raw=true)
 
 
 ## Features
