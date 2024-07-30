@@ -4,7 +4,7 @@
 Effortlessly download and export public GitHub repository contents as JSON. All you need is a browser.
 
 ![Screen](https://github.com/avnigashi/github-files-collector/blob/main/screen.png?raw=true)
-
+[Demo](https://avnigashi.de/git-downloader/index.html)
 ## Features
 - Enter a GitHub repo URL to download contents.
 - Optional GitHub token for higher rate limits.
